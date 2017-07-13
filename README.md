@@ -247,6 +247,7 @@ ___
 End
 
 Deepika
+
 ![alt](http://javadeveloperzone.com/wp-content/uploads/2017/06/JAVA-8-STREAM-COLLECT-EXAMPLE-600x400.jpg)
 # Java 8 feature #
 ## Stream to arrayList Example:Using Stream Interface Methods
