@@ -291,7 +291,9 @@ public class Streamtocollect
 
 
 End
-
+Brighty
+**********************************************************************
+End
 # java 8 features
 # Stream Min
 
